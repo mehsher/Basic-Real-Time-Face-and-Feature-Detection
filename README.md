@@ -19,7 +19,7 @@ labels, FPS, detection counts) on the video feed.
 
 ```
 realtime-object-detection/
-├── main.py              # Entry point: camera loop, controls, HUD
+├── main.py              # Entry point: camera loop
 ├── detector.py           # ObjectDetector class + FPS tracking
 ├── utils/
 │   └── overlay.py        # Drawing: boxes, labels, HUD panel
