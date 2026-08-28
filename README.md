@@ -23,7 +23,6 @@ realtime-object-detection/
 ├── detector.py           # ObjectDetector class + FPS tracking
 ├── utils/
 │   └── overlay.py        # Drawing: boxes, labels, HUD panel
-├── output/                # Snapshots and recordings land here
 └── requirements.txt
 ```
 
